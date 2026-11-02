@@ -8,6 +8,16 @@
 
 ---
 
+## 🎓 Academic Project Submission
+- **Institution:** Malla Reddy University (MRU), Hyderabad
+- **Department:** Department of Computer Science & Engineering (CSE 2nd Year)
+- **Course:** Project / Mini-Project Submission
+- **Team Members:**
+  - **Potluri Venkata Vamsi Krishna** — Roll Number: `2511CS010129`
+  - **Team Member** — Roll Number: `2511CS010100`
+
+---
+
 ## 🏛️ System Architecture & UML Diagrams
 The complete interactive UML engineering suite (with pure white backgrounds and detailed descriptions) is available at:
 👉 **[Interactive Architecture Viewer](https://intellifarm-alpha.vercel.app/diagrams.html)**
