@@ -13,8 +13,8 @@
 - **Department:** Department of Computer Science & Engineering (CSE 2nd Year)
 - **Course:** Project / Mini-Project Submission
 - **Team Members:**
-  - **Potluri Venkata Vamsi Krishna** — Roll Number: `2511CS010129`
-  - **Team Member** — Roll Number: `2511CS010100`
+  - **Team Leader:** Roll Number: `2511CS010100`
+  - **Team Member:** Potluri Venkata Vamsi Krishna — Roll Number: `2511CS010129`
 
 ---
 
